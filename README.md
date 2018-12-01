@@ -1,3 +1,5 @@
+This Project is based on Darknet and just edits it in order to export the prediction data from the various YOLO layers in a usable format.
+
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #
